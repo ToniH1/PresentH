@@ -1,0 +1,25 @@
+h1{
+  font-family: 'Meow Script', cursive;}
+
+#title{
+  text-align: center;
+
+}
+
+#picture-show{
+  text-align: center;
+  background-color: #DA0037;
+}
+
+.Gutschein{
+  margin: 10% 20%;
+  font-family: 'Mountains of Christmas', cursive;
+}
+
+.spongebob-image{
+  margin: 5%
+}
+
+.maria{
+  text-decoration: underline;
+}
